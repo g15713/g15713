@@ -178,6 +178,9 @@ I'm a QA veteran turned AI/ML explorer, blending 15+ years of engineering precis
 > I believe in building bridges between legacy expertise and future innovation.
 
 ---
+🖼️ Profile image generated using Microsoft Responsible AI tools.  
+Authored and curated by Charles Irvine.  
 
-© Charles Irvine. GitHub logo artwork is original and may not be reused without permission.  
+© Charles Irvine. GitHub logo artwork is original and protected—reuse requires explicit permission.  
 📅 Last updated: 2025
+
