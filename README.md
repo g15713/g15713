@@ -57,7 +57,7 @@ I'm a QA veteran turned AI/ML explorer, blending 15+ years of engineering precis
 ## 📬 Let’s Connect
 
 - 💬 [Coursera Mentorship Forums](https://www.coursera.org)  
-- 🧠 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🧠 [LinkedIn](https://(https://www.linkedin.com/in/charles-irvine-2a05045b/))  
 - 🛠️ [GitHub Projects](https://github.com/g15713)  
 
 ---
